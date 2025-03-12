@@ -31,7 +31,7 @@ pip install -r requirements.txt
 Run the script using Python:
 
 ```bash
-python script.py
+python movie_tracker.py
 ```
 
 The script will output a randomly selected movie title from the fetched list.
